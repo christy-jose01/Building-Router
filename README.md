@@ -1,17 +1,7 @@
-# Final Lab
-Name: Christy Jose
-email: cmjose@ucsc.edu
-CruzID: cmjose
-Student ID: 1833512
-
-## Filename: final_skel.py
-This file contains all of the code for the topology of the network and connections.
-
-## Filename: finalcontroller_skel.py
-This file contains all of the code on processing the packet, forwarding the packet through the network, and the code for the firewall.
-
-## Filename: project.pdf
-This file contains all of the screenshots and all of the explanations of how the requirements of the project were fulfilled and how they were tested.
+## Files: 
+- final_skel.py: This file contains all of the code for the topology of the network and connections.
+- finalcontroller_skel.py: This file contains all of the code on processing the packet, forwarding the packet through the network, and the code for the firewall.
+- project.pdf: This file contains all of the screenshots and all of the explanations of how the requirements of the project were fulfilled and how they were tested.
 
 ## Running the project:
 1. Save the final_skel.py file in your home directory
