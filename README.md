@@ -1,5 +1,5 @@
 # Building-Router
-This repository builds a router. It contains two programming files, the details are below. This router is built using Python and utilizes the pox library.
+This repository builds a router. It contains two programming files, the details are below. This router is built using Python and utilizes the pox library. This project is based on an assignment for my CSE 150 class at the University of California, Santa Cruz.
 
 ## Files: 
 - final_skel.py: This file contains all of the code for the topology of the network and connections.
